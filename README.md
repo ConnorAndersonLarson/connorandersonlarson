@@ -1,5 +1,3 @@
-### Hello there, I'm Connor Anderson-Larson! 👋
-
 <h1 align="center">Hello There, I'm Connor Anderson-Larson</h1>
 <h3 align="center">Facilities Worker/Woodworker turned Developer</h3>
 
