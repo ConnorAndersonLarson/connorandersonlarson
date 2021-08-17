@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **PHP, Jest, Java?**
 
-- 👨‍💻 All of my projects are available at [http://connoralportfolio.herokuapp.com/](http://connoralportfolio.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [My personal website](http://connoralportfolio.herokuapp.com/)
 
-- 📝 I occasionally write articles on [https://medium.com/@connorandersonlarson](https://medium.com/@connorandersonlarson)
+- 📝 I occasionally write articles on [LinkedIn](https://www.linkedin.com/in/connor-anderson-larson/)
 
 - 💬 Ask me about **React, Cats, JS, Woodworking**
 
 - 📫 How to reach me **Connorandersonlarson@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1F_kx51tEs6zy7Hx_utsEMxcc2EV-IUJbqFRh4vv7Vaw/edit?usp=sharing](https://docs.google.com/document/d/1F_kx51tEs6zy7Hx_utsEMxcc2EV-IUJbqFRh4vv7Vaw/edit?usp=sharing)
+- 📄 Know about my experiences [via my Resume](https://docs.google.com/document/d/1F_kx51tEs6zy7Hx_utsEMxcc2EV-IUJbqFRh4vv7Vaw/edit?usp=sharing)
 
 - 😄 Pronouns: He/Him
 
